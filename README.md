@@ -15,6 +15,7 @@ I am **Mirjalol Esanov** — Full Stack Web Developer
 ---
 
 ### 🛠️ Tech:
+  
   ### 🎨 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,ejs ,bootstrap,materialui" />
