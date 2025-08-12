@@ -16,9 +16,28 @@ I am **Mirjalol Esanov** — Full Stack Web Developer
 ---
 
 ### 🛠️ Tech:
+    ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nestjs,mongodb,graphql,html,css,git,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,ejs,bootstrap,materialui" />
 </p>
+
+    ### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,graphql" />
+</p>
+
+    ### 🔧 DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode,webpack,firebase" />
+</p>
+
+<!-- PM2 skillicons’da yo‘q, shuning uchun badge -->
+<p align="left">
+  <a href="https://pm2.keymetrics.io/">
+    <img src="https://img.shields.io/badge/PM2-Process%20Manager-2e8b57?logo=pm2&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
