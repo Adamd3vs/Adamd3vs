@@ -37,5 +37,6 @@ I am **Mirjalol Esanov** — Full Stack Web Developer
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=45deg,6a11cb,2575fc&height=100&section=footer&fontColor=ffffff" />
+
 
