@@ -1,0 +1,3 @@
+- Developer 
+- JavaScript, 
+- theesanovmirjalol@gmail.com
