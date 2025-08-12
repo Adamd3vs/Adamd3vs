@@ -1,5 +1,9 @@
 <!-- Profile banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hello%20I'm%20Adam&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hello%20I'm%20Adam&fontSize=44&fontColor=ffffff&fontAlign=50&fontAlignY=50"
+/>
+
 
 
 ## 👋 Hello!
@@ -37,6 +41,7 @@ I am **Mirjalol Esanov** — Full Stack Web Developer
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=45deg,6a11cb,2575fc&height=100&section=footer&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer&fontColor=ffffff" />
+
 
 
