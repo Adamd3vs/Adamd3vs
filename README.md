@@ -7,7 +7,6 @@
 
 ## 👋 Hello!
 I am **Mirjalol Esanov** — Full Stack Web Developer
-- 💻 Tech stack: Node.js, React.js, NestJS, GraphQL, MongoDB, Next.js
 - 🌏 Languages: Uzbek, English, Korean, Russian
 - 📍 Location: South Korea 🇰🇷  
 - 📫 Email me: [theesanovmirjalol12@email.com](mailto:theesanovmirjalol12@email.com)
