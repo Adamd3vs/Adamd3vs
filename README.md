@@ -1,6 +1,6 @@
 <!-- 🌌 Matrix Rain Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adamd3vs/workflow/main/assets/matrix-rain.svg" width="100%" alt="Matrix Rain Header"/>
+  <img src="https://raw.githubusercontent.com/Adamd3vs/rainmatrix.svg/blob/main/matrix-rain.svg" width="100%" alt="Matrix Rain Header"/>
 </p>
 
 <!-- ✨ Animated Header -->
@@ -43,7 +43,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adamd3vs/workflow/main/assets/trophy.svg" width="100%" alt="GitHub Trophy" />
+  <img src="https://raw.githubusercontent.com/Adamd3vs/workflow/main/assets/cache-trophy.yml" width="100%" alt="GitHub Trophy" />
 </p>
 
 ---
