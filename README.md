@@ -1,6 +1,6 @@
 <!-- 🌌 Matrix Rain Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adamd3vs/rainmatrix.svg/blob/main/matrix-rain.svg" width="100%" alt="Matrix Rain Header"/>
+  <img src="https://raw.githubusercontent.com/Adamd3vs/rainmatrix.svg/main/matrix-rain.svg" width="100%" alt="Matrix Rain Header"/>
 </p>
 
 <!-- ✨ Animated Header -->
