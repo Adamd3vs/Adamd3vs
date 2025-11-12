@@ -1,3 +1,8 @@
+<!-- 🌌 Matrix Rain Header -->
+<p align="center">
+  <img src="assets/matrix-rain.svg" width="100%" alt="Matrix Rain Header"/>
+</p>
+
 <!-- ✨ Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45,60&height=220&section=header&text=Hey%20👋%20I'm%20Adam%20(Mirjalol%20Esanov)&fontSize=36&fontAlignY=38&fontColor=fff"/>
 
@@ -35,6 +40,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="assets/trophy.svg" width="100%" alt="GitHub Trophy" />
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -44,19 +57,17 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adamd3vs&theme=tokyonight&hide_border=true)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Adamd3vs&theme=tokyonight&no-frame=true&row=1&margin-w=15)
-
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🧩 Contribution Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adamd3vs&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
-
 ![Snake Animation](https://raw.githubusercontent.com/Adamd3vs/Adamd3vs/output/github-contribution-grid-snake.svg)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adamd3vs&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
 
 </div>
 
