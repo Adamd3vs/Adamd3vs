@@ -4,7 +4,7 @@
 </p>
 
 <!-- ✨ Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45,60&height=220&section=header&text=Hey%20👋%20I'm%20Adam%20(Mirjalol%20Esanov)&fontSize=36&fontAlignY=38&fontColor=fff"/>
+
 
 <div align="center">
   
