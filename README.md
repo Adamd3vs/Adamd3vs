@@ -1,19 +1,22 @@
 <!-- 🌌 Matrix Rain Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adamd3vs/rainmatrix.svg/main/matrix-rain.svg" width="100%" alt="Matrix Rain Header"/>
+  <img src="./assets/matrix-rain.svg" width="100%" alt="Matrix Rain Header"/>
 </p>
 
-<!-- ✨ Animated Header -->
-
-
 <div align="center">
-  
+
 ### 💻 Full Stack Web Developer | 🧠 Tech Explorer | 🌍 Multilingual  
-**Uzbek 🇺🇿 | English 🇬🇧 | Korean 🇰🇷 | Russian 🇷🇺**
+
+<p align="center">
+  <img src="./assets/flags/uz.svg" height="14"/> Uzbek &nbsp;|&nbsp;
+  <img src="./assets/flags/gb.svg" height="14"/> English &nbsp;|&nbsp;
+  <img src="./assets/flags/kr.svg" height="14"/> Korean &nbsp;|&nbsp;
+  <img src="./assets/flags/ru.svg" height="14"/> Russian
+</p>
 
 📧 [theesanovmirjalol12@email.com](mailto:theesanovmirjalol12@email.com)  
 📍 Based in **South Korea**
-  
+
 ---
 
 </div>
@@ -41,40 +44,34 @@
 ---
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adamd3vs/workflow/main/assets/cache-trophy.yml" width="100%" alt="GitHub Trophy" />
+  <img src="./assets/trophy.svg" width="100%" alt="GitHub Trophy"/>
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=Adamd3vs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adamd3vs&layout=compact&theme=tokyonight&hide_border=true) |
 |:---:|:---:|
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adamd3vs&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
 
 ## 🧩 Contribution Activity
-
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/Adamd3vs/workflow/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Adamd3vs/Adamd3vs/output/github-contribution-grid-snake.svg)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adamd3vs&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
-
 </div>
 
 ---
 
 ## 🌐 Connect with Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mirjalol-esanov-2b7543342/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
