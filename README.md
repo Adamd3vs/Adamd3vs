@@ -1,61 +1,82 @@
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hello%20I'm%20Adam&fontSize=44&fontColor=ffffff&fontAlign=50&fontAlignY=50"
-/>
+<!-- ✨ Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45,60&height=220&section=header&text=Hey%20👋%20I'm%20Adam%20(Mirjalol%20Esanov)&fontSize=36&fontAlignY=38&fontColor=fff"/>
 
+<div align="center">
+  
+### 💻 Full Stack Web Developer | 🧠 Tech Explorer | 🌍 Multilingual  
+**Uzbek 🇺🇿 | English 🇬🇧 | Korean 🇰🇷 | Russian 🇷🇺**
 
-
-## 👋 Hello!
-I am **Mirjalol Esanov** — Full Stack Web Developer
-- 🌏 Languages: Uzbek, English, Korean, Russian
-- 📍 Location: South Korea 🇰🇷  
-- 📫 Email me: [theesanovmirjalol12@email.com](mailto:theesanovmirjalol12@email.com)
-
+📧 [theesanovmirjalol12@email.com](mailto:theesanovmirjalol12@email.com)  
+📍 Based in **South Korea**
+  
 ---
 
-### 🛠️ Tech:
-  ### 🎨 Frontend
+</div>
+
+## ⚙️ Tech Stack
+
+#### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,ejs,bootstrap,materialui&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,ejs,bootstrap,tailwind,materialui&perline=9" />
 </p>
 
-
-  ### ⚙️ Backend
+#### 🧩 Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,graphql,python,fastapi,sqlite,postgresql&perline=9" />
 </p>
 
-   ### 🔧 DevOps & Tools
+#### ☁️ DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode,webpack,firebase" />
- <a href="https://pm2.keymetrics.io/">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,vscode,firebase,webpack,postman&perline=9" />
+  <a href="https://pm2.keymetrics.io/">
     <img src="https://img.shields.io/badge/PM2-Process%20Manager-2e8b57?logo=pm2&logoColor=white" />
   </a>
 </p>
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Adamd3vs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adamd3vs&layout=compact&theme=tokyonight&hide_border=true) |
+|:---:|:---:|
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adamd3vs&theme=tokyonight&hide_border=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Adamd3vs&theme=tokyonight&no-frame=true&row=1&margin-w=15)
+
+</div>
 
 ---
 
-### 📊 GitHub Statistics
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adamd3vs&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+
+![Snake Animation](https://raw.githubusercontent.com/Adamd3vs/Adamd3vs/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adamd3vs&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamd3vs&layout=compact&theme=radical" height="160"/>
+  <a href="https://www.linkedin.com/in/mirjalol-esanov-2b7543342/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
+  </a>
+  <a href="https://t.me/debug_Adam">
+    <img src="https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram" />
+  </a>
+  <a href="https://github.com/Adamd3vs">
+    <img src="https://img.shields.io/badge/GitHub-Adamd3vs-181717?logo=github" />
+  </a>
 </p>
 
 ---
 
-### 📈 Activity Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adamd3vs&theme=react-dark)](https://github.com/Adamd3vs)
-
----
-
-### 🔗 Communication
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mirjalol-esanov-2b7543342/)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/debug_Adam)
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer&fontColor=ffffff" />
-
-
-
+<!-- ✨ Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,45,60&height=100&section=footer"/>
