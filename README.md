@@ -45,7 +45,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="./assets/trophy.svg" width="100%" alt="GitHub Trophy"/>
+  <img src="https://github.com/Adamd3vs/workflow/blob/main/.github/workflows/cache-trophy.yml" width="100%" alt="GitHub Trophy"/>
 </p>
 
 ---
