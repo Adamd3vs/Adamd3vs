@@ -45,7 +45,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adamd3vs/workflow/main/.github/workflows/cache-trophy.yml" width="100%" alt="GitHub Trophy"/>
+  <img src="https://raw.githubusercontent.com/Adamd3vs/workflow/main/assets/trophy.svg"" width="100%" alt="GitHub Trophy"/>
 </p>
 
 ---
@@ -64,7 +64,8 @@
 ## 🧩 Contribution Activity
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/Adamd3vs/workflow/main/.github/workflows/snake.yml)
+![Snake Animation](https://raw.githubusercontent.com/Adamd3vs/Adamd3vs/output/github-contribution-grid-snake.svg)
+
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adamd3vs&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
 </div>
