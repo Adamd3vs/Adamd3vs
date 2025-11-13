@@ -8,10 +8,10 @@
 ### 💻 Full Stack Web Developer | 🧠 Tech Explorer | 🌍 Multilingual  
 
 <p align="center">
-  <img src="./assets/flags/uz.svg" height="14"/> Uzbek &nbsp;|&nbsp;
-  <img src="./assets/flags/gb.svg" height="14"/> English &nbsp;|&nbsp;
-  <img src="./assets/flags/kr.svg" height="14"/> Korean &nbsp;|&nbsp;
-  <img src="./assets/flags/ru.svg" height="14"/> Russian
+  <img src="https://raw.githubusercontent.com/Adamd3vs/workflow/main/assets/flags/uz.svg" height="14"/> Uzbek &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/Adamd3vs/workflow/main/assets/flags/gb.svg" height="14"/> English &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/Adamd3vs/workflow/main/assets/flags/kr.svg" height="14"/> Korean &nbsp;|&nbsp;
+  <img src="https://raw.githubusercontent.com/Adamd3vs/workflow/main/assets/flags/ru.svg" height="14"/> Russian
 </p>
 
 📧 [theesanovmirjalol12@email.com](mailto:theesanovmirjalol12@email.com)  
