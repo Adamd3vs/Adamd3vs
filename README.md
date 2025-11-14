@@ -24,22 +24,13 @@
 ## ⚙️ Tech Stack
 
 #### 🎨 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,ejs,bootstrap,tailwind,materialui&perline=9" />
-</p>
-
-#### 🧩 Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,graphql,python,fastapi,sqlite,postgresql&perline=9" />
-</p>
-
-#### ☁️ DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,vscode,firebase,webpack,postman&perline=9" />
-  <a href="https://pm2.keymetrics.io/">
-    <img src="https://img.shields.io/badge/PM2-Process%20Manager-2e8b57?logo=pm2&logoColor=white" />
-  </a>
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,ejs,bootstrap,tailwind,materialui&perline=9" /> </p>
+🧩 Backend
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,graphql,python,fastapi,sqlite,postgresql&perline=9" /> </p>
+⚡ Algorithms & System Programming
+<p align="left"> <img src="https://skillicons.dev/icons?i=cpp&perline=9" /> </p>
+☁️ DevOps & Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,vscode,firebase,webpack,postman&perline=9" /> <a href="https://pm2.keymetrics.io/"> <img src="https://img.shields.io/badge/PM2-Process%20Manager-2e8b57?logo=pm2&logoColor=white" /> </a> </p>
 
 ---
 
