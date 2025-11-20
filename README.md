@@ -24,7 +24,7 @@
 ## ⚙️ Tech Stack
 
 #### 🎨 Frontend
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,ejs,bootstrap,tailwind,materialui&perline=9" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,tailwind,materialui&perline=9" /> </p>
 🧩 Backend
 <p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,graphql,python,fastapi,sqlite,postgresql&perline=9" /> </p>
 ⚡ Algorithms & System Programming
