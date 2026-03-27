@@ -36,18 +36,15 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adamd3vs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+  <img src="https://raw.githubusercontent.com/Adamd3vs/workflow/main/assets/github-trophies.svg" width="100%" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adamd3vs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamd3vs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
+  <img src="https://raw.githubusercontent.com/Adamd3vs/workflow/main/assets/github-stats.svg" height="180em" alt="GitHub Stats"/>
+  <img src="https://raw.githubusercontent.com/Adamd3vs/workflow/main/assets/top-langs.svg" height="180em" alt="Top Languages"/>
 </div>
 
 
